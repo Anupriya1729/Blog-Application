@@ -11,7 +11,7 @@ some bootstrap snippets from- https://getbootstrap.com/docs/4.0/getting-started/
 Backend - Python and Django
 Database Used- SQLite 
 </pre>
- SQLite is Django's default database, you can also use other databases like-PostgreSQL, MySQL, and Oracle, without disturbing the models
+ SQLite is Django's default database, you can also use other databases like-PostgreSQL, MySQL, and Oracle, without disturbing the models .
 Just by changing the settings.py file
 
 <pre>
