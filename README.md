@@ -9,9 +9,9 @@ This website is created on Django Framework.
 Frontend - HTML, CSS and
 some bootstrap snippets from- https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template
 Backend - Python and Django
-Database Used- SQlite 
+Database Used- SQLite 
 </pre>
-Sqlite is Django's default database, you can also use other databases like-PostgreSQL, MySQL, SQLite, and Oracle, without disturbing the models
+ SQLite is Django's default database, you can also use other databases like-PostgreSQL, MySQL, and Oracle, without disturbing the models
 Just by changing the settings.py file
 
 <pre>
