@@ -8,7 +8,8 @@ This website is created on Django Framework.
 <pre>
 Frontend - HTML, CSS and
 some bootstrap snippets from- https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template
-Backend - Python and Django
+Backend - Python
+Framework - Django
 Database Used- SQLite 
 </pre>
  SQLite is Django's default database, you can also use other databases like-PostgreSQL, MySQL, and Oracle, without disturbing the models .
