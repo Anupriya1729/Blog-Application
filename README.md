@@ -6,10 +6,8 @@ This website is created on Django Framework.
 </em>
 <br>
 <pre>
-Frontend - HTML, CSS and
-some bootstrap snippets from- https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template
-Backend - Python
-Framework - Django
+Frontend - HTML, CSS and Bootstrap
+Backend - Python & Django
 Database Used- SQLite 
 </pre>
  SQLite is Django's default database, you can also use other databases like-PostgreSQL, MySQL, and Oracle, without disturbing the models .
@@ -30,3 +28,6 @@ Features offered by this website-
 <h3 color='blue'>Contact me on LinkedIn- https://www.linkedin.com/in/anupriyanishad/<h3>
 <h3 color='blue'>Contact me on Email- anupriya91998@gmail.com<h3>
 <h3 color='blue'>Website live on pythonanywhere- http://anupriyanishad.pythonanywhere.com/<h3>
+
+
+<!--some bootstrap snippets from- https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template-->
