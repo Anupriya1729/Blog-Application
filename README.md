@@ -1,5 +1,4 @@
-<h2>Welcome!</h2>
-<h3>Take a tour</h3>
+<div style='font-family:Courier New'>
 <h3 color='blue'>.GEEKIFY- http://anupriyanishad.pythonanywhere.com/<h3>
 This is a Blogging Application for the GEEKS. It allows the users to view various posts on the home page of the website and also post some refreshing content about the booming technologies and computer science subjects. Features like register, update user profile, upload profile picture, login, logout, create new post, update and delete the existing post is available on this website. Note- Users can update and delete only their own posts. You can only post after creating an account.
 <hr>
@@ -29,6 +28,5 @@ Features offered by this website-
 
 <h3 color='blue'>Contact me on LinkedIn- https://www.linkedin.com/in/anupriyanishad/<h3>
 <h3 color='blue'>Contact me on Email- anupriya91998@gmail.com<h3>
-
-
+</div>
 <!--some bootstrap snippets from- https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template-->
